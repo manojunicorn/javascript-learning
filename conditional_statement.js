@@ -9,7 +9,7 @@ else if (b > a && b > c){
     console.log("b is greatest");
 }
 else if (c > a && c > b){
-    console.log("c is greatest");
+    console.log("c is greatest"); 
 }
 else {
     console.log("Some numbers are equal");
