@@ -45,5 +45,5 @@
 // }
 
 
-let name = ["manu", "hari", "jagi","mani"];
-console.log(name.length);
+// let name = ["manu", "hari", "jagi","mani"];
+// console.log(name.length);

@@ -1,4 +1,4 @@
-
+//unshift() = adding elements in array at starting point
 
 let scores = [20, 44, 67, "manya"];
 

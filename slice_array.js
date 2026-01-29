@@ -6,3 +6,7 @@ let myStudents = students.slice(0, 4)
 console.log(students);
 
 console.log(myStudents);
+
+//example in array from which index  we need the values we can access my calling slice (0, 3);
+
+
